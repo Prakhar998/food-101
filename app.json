@@ -1,0 +1,5 @@
+{
+    "name":"Pytorch Flower",
+    "description":"Flower Classifier built using pytorch",
+    "keywords":["python","flask","Pytorch"]
+}
