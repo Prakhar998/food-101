@@ -148,4 +148,4 @@ This work continues, and we intend to implement the following in the coming week
 <hr>
 - slack names on secureprivataischolar.slack.com
 
-<strong>@Arka, @George Christopoulos, @Manisha, @Oladimeji Mudele, @Prakhar Tripathi, @Stark</strong>
+<strong>@Prakhar Tripathi</strong>
