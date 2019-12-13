@@ -146,6 +146,6 @@ This work continues, and we intend to implement the following in the coming week
 
 ### Team:
 <hr>
-- slack names on secureprivataischolar.slack.com
+- Google build For India Project
 
 <strong>@Prakhar Tripathi</strong>
