@@ -1,5 +1,7 @@
 It's live, Try it on https://masa-finder-george.herokuapp.com/
-﻿## **Food Classification with DenseNet-161**
+﻿##
+ 
+ **Food Classification with DenseNet-161**
 ![foodbanner](https://www.vision.ee.ethz.ch/datasets_extra/food-101/static/img/food-101.jpg)
 
 Recent growth in nutrition related diseases globally have increased awareness in keeping healthy nutritional habits. Healthy diets reduce the risks of reactions to food intolerance, weight problems, malnutrition and some forms of cancer. There are several applications in existance with which we can manually keep track of what we eat and identify food items before consumption. These applications however require that previous experience with the food item for easy identification. An important question however is: ***what happens if we see a food item for the first time and need to identify it?*** Automated tools of food identification will be of help in such case.
