@@ -150,4 +150,5 @@ This work continues, and we intend to implement the following in the coming week
 <hr>
 
 
-<strong>@Prakhar Tripathi</strong>
+<strong>Prakhar Tripathi
+@Prakhar998</strong>
