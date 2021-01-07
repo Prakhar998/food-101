@@ -146,8 +146,8 @@ This work continues, and we intend to implement the following in the coming week
 
 
 
-### Team:
+### made by:
 <hr>
-- Google build For India Project
+
 
 <strong>@Prakhar Tripathi</strong>
